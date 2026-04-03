@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "君の唄で生きていたい",
+  "base_artist": "BLUEGOATS",
+  "createdAt": "2026-04-03T13:01:27.267515Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "君の唄で生きていたい",
+      "artist": "BLUEGOATS",
+      "has_synced": false,
+      "path": "select/pl_01_君の唄で生きていたい_BLUEGOATS.txt"
+    }
+  ]
+}
